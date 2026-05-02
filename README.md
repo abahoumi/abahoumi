@@ -108,7 +108,7 @@
 
 **Development Period:** May - July 2025
 
-[📂 View Project](https://github.com/Abdelaziz2811/DVLD) | [⭐ Give a Star](https://github.com/Abdelaziz2811/DVLD) | [📖 Full Documentation](https://github.com/Abdelaziz2811/DVLD#readme)
+[📂 View Project](https://github.com/abahoumi/DVLD) | [⭐ Give a Star](https://github.com/abahoumi/DVLD) | [📖 Full Documentation](https://github.com/abahoumi/DVLD#readme)
  
 ---
 
@@ -133,8 +133,8 @@
   
 ### 📁 More Projects
 
-🔹 [**C++ Applications Collection**](https://github.com/Abdelaziz2811/SimpleProjects)) - Various console applications demonstrating C++ concepts  
-🔹 [**WinForms Applications**](https://github.com/Abdelaziz2811/Win-Forms-Applications) - Desktop applications built with C# and .NET  
+🔹 [**C++ Applications Collection**](https://github.com/abahoumi/SimpleProjects)) - Various console applications demonstrating C++ concepts  
+🔹 [**WinForms Applications**](https://github.com/abahoumi/Win-Forms-Applications) - Desktop applications built with C# and .NET  
 
 </div>
 
@@ -307,14 +307,14 @@ Deep dive into low-level programming and operating systems.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdelaziz2811&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelaziz2811&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abahoumi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abahoumi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelaziz2811&theme=tokyonight&fire=DD2727&ring=FFD700&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abahoumi&theme=tokyonight&fire=DD2727&ring=FFD700&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelaziz2811&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abahoumi&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
